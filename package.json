@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/linsight/react-provide-scroll-position/issues"
   },
-  "homepage": "https://github.com/linsight/react-provide-scroll-position",
+  "homepage": "https://linsight.github.io/react-provide-scroll-position",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
