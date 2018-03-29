@@ -1,6 +1,6 @@
 {
   "name": "react-provide-scroll-position",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple higher order function to provide scroll position to a component",
   "main": "lib/react-provide-scroll-position.js",
   "scripts": {
